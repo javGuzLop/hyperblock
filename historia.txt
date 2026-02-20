@@ -5,3 +5,8 @@ fecha de inicio a trabajar Mayo 03 2022
 mi cargo en la empresa es: Desarrollador de software...
 Se actualizo hoy Viernes 20/02/2026
 
+este es una prueba en la que se hace una colaboracion
+con el correo roseroximena@hotmail.com 
+para probar las diferentes ramas y hacer merge en el repositori
+
+
